@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="defult_text">Did you know you can determine the temperature.If you don\'t convert then put it in the box below:</string>
+    <string name="hint">Input in Fahrenheit</string>
+    <string name="b_txt">CONVERT</string>
+    <string name="result_preparing">Result Preparing....</string>
+    <!--    <string name="defult_txt">Did you know you can determine the temperature.If you don't convert then put it in the box below: </string>-->
+</resources>
